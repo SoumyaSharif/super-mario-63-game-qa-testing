@@ -1,6 +1,10 @@
 
 # Game QA Testing Portfolio
 
+<p align="center">
+  <img src="./assets/mario-running.gif" width="120" alt="Mario running">
+</p>
+
 A practical portfolio documenting my learning and experience in Game Quality Assurance, including manual testing, test case design, exploratory testing, bug reporting, and QA documentation.
 
 ## About This Repository
